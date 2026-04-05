@@ -2,29 +2,29 @@
 
 > **Back-end Developer | Java & Python | Data & IA local Enthusiast**
 
-Sou um desenvolvedor focado na construção de sistemas robustos e eficientes. Minha base sólida em **Java** e **Python** permite que eu transite entre APIs corporativas escaláveis e soluções inteligentes de processamento de dados e IA local em ambiente macOS.
+Sou um desenvolvedor focado na construção de sistemas robustos e eficientes. Minha base sólida em **Java** e **Python** permite que eu transite entre APIs corporativas escaláveis e soluções inteligentes de processamento de dados e IA local.
 
 ---
 
 ## 🛠️ Projetos em Destaque
 
 ### ☕ Java & Logística
-* **[Gerador de Etiquetas ZPL](https://github.com/Vincostta):** *(Em desenvolvimento 🏗️)* Sistema em Java utilizando **Maven** para automação e geração de etiquetas térmicas no padrão Zebra. Focado em integração com sistemas de estoque e logística.
+* **[Zebra ZPL SDK (Enterprise Edition)](https://github.com/Vincostta/zebra-zpl-sdk-java):** 🚀 *(Production-Ready)* SDK profissional para automação de etiquetas térmicas. Inclui Fluent API, conversão mm-to-dots, fila de impressão assíncrona e monitoramento de status via TCP/IP. Disponível para licenciamento comercial.
 
 ### 🐍 Python & IoT
-* **[Mini Balança Inteligente](https://github.com/Vincostta/mini-balanca-inteligente):** Simulador de balança industrial com arquitetura modular, processamento em tempo real e cobertura de **Testes Unitários**.
+* **[Mini Balança Inteligente](https://github.com/Vincostta/mini-balanca-inteligente):** Simulador de balança industrial com arquitetura modular, processamento em tempo real e cobertura rigorosa de **Testes Unitários**.
 
-### 🤖 IA & Machine Learning (Coming Soon...)
-* **Local AI Engine:** Implementação de modelos de inteligência artificial otimizados para rodar nativamente em **macOS (Apple Silicon)**, explorando privacidade e performance local.
+### 🤖 IA & Machine Learning
+* **Local AI Engine (macOS):** Implementação de modelos de inteligência artificial otimizados para rodar nativamente em **Apple Silicon (MLX/PyTorch)**, priorizando privacidade e performance local. *(Em desenvolvimento 🏗️)*
 
 ---
 
 ## ⚙️ Stack Tecnológica
 
-- **Linguagens:** Java (Spring Boot, Maven), Python (FastAPI, Pytest)
-- **Data & IA:** Manipulação de dados e estudos em On-device AI (Apple MLX/PyTorch).
-- **Ambiente:** Especialista em fluxo de desenvolvimento em **macOS** e ambientes virtuais.
-- **Versionamento:** Git (Gitflow, Conventional Commits).
+- **Linguagens:** Java (Spring Boot, Maven, Enterprise SDKs), Python (FastAPI, Pytest)
+- **Data & IA:** Manipulação de dados e estudos em On-device AI (Apple MLX).
+- **Ambiente:** Especialista em fluxo de desenvolvimento em **macOS (Apple Silicon)** e **Windows**.
+- **Versionamento:** Git (Gitflow, Conventional Commits, Licenciamento Comercial).
 
 ---
 
