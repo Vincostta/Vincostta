@@ -31,8 +31,11 @@ Sou um desenvolvedor focado na construção de sistemas robustos e eficientes. M
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vincostta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincostta&layout=compact&theme=dracula&hide=html,css,javascript" />
+  <!-- Gráfico de Status Geral -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vincostta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <!-- Gráfico de Sequência (Streak) - Alternativa Estável -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vincostta&theme=dracula" alt="Sequência de Contribuições" />
 </div>
 
 ---
